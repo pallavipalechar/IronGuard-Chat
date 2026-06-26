@@ -1,6 +1,4 @@
 flask
-transformers
-torch
-flask_cors
-datetime
+flask-cors
 gunicorn
+google-generativeai

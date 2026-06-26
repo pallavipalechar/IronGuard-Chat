@@ -1,0 +1,10 @@
+
+----------------------
+2026-06-25T20:20:08.973765
+INPUT: killing tool
+RISK: {'risk_level': 'MEDIUM', 'blocked': True, 'matched_keywords': ['kill']}
+
+----------------------
+2026-06-25T20:22:01.257240
+INPUT: bomb
+RISK: {'risk_level': 'MEDIUM', 'blocked': True, 'matched_keywords': ['bomb']}
